@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\SpaceRun\Assets\Scripts\GateTriggered.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="2" Column="1" />
+      <File FileName="..\SpaceRun\Assets\Scripts\GateTriggered.cs" Line="23" Column="53" />
+      <File FileName="..\SpaceRun\Assets\Scripts\ShipController.cs" Line="29" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
